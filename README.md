@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saachi-c
-- Data Science | Data Analytics | Machine Learning
+- 👋 Hi, I’m Saachi Chandrashekhar @saachi-c
+-    Data Science | Data Analytics | Machine Learning
 - 🌱 I’m currently learning time series forecasting and Supervised ML
 - 📫 Reach me at chandrashekhar.s@northeastern.edu
 
