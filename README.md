@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saachi Chandrashekhar @saachi-c
 -    Data Science | Data Analytics | Machine Learning
-- 🌱 I’m currently learning time series forecasting and Supervised ML
+- 🌱 Masters student at Northeastern University, Boston
 - 📫 Reach me at chandrashekhar.s@northeastern.edu
 
 <!---
